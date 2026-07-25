@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chamle</h1>
 
 <h3 align="center">
-Python Developer | Data Engineering | AI / Machine Learning
+Python Developer | Data Engineering | AI & Machine Learning
 </h3>
 
 <p align="center">
@@ -12,9 +12,9 @@ Building scalable Data Engineering and AI systems with Python using modern softw
 
 ## 👨‍💻 About Me
 
-- 💻 Python Developer focused on Data Engineering and AI / Machine Learning
-- 🚀 Passionate about building scalable, reliable and production-quality software
-- ⚙️ Following modern software engineering practices including Clean Architecture, Testing, CI/CD and Docker
+- 💻 Python Developer with a focus on Data Engineering and AI
+- 🚀 Passionate about building scalable, reliable and production-ready software
+- ⚙️ Following modern software engineering practices including Git workflows, code reviews, testing and CI/CD
 - 🎯 Interested in Data Engineering, AI Systems and Enterprise Software
 - 📍 Pune, India
 
@@ -22,29 +22,25 @@ Building scalable Data Engineering and AI systems with Python using modern softw
 
 ## 🛠 Engineering Journey
 
-<div align="center">
+<p align="center">
 
-<pre>
+<b>
 
-                     Python
-                        │
-              ┌─────────┴─────────┐
-              ▼                   ▼
-             SQL          Oracle Database
-                                  │
-                                  ▼
-                        Data Engineering
-               (PySpark • Databricks • Delta Lake)
-                                  │
-                                  ▼
-                               Cloud
-                                  │
-                                  ▼
-                      AI / Machine Learning
+Python → SQL → Oracle Database → Data Engineering (PySpark • Databricks • Delta Lake) → Cloud → AI & Machine Learning
 
-</pre>
+</b>
 
-</div>
+</p>
+
+---
+
+## ⚙️ Software Engineering
+
+<p align="center">
+
+Git • GitHub • Pull Requests • Code Reviews • CI/CD • Docker • Make • Ruff • Black • MyPy • Pytest
+
+</p>
 
 ---
 
@@ -53,11 +49,11 @@ Building scalable Data Engineering and AI systems with Python using modern softw
 <p align="left">
 
 <a href="https://www.linkedin.com/in/contact-nikhil-chamle/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/chamlenikhil1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
 </a>
 
 </p>
@@ -66,12 +62,13 @@ Building scalable Data Engineering and AI systems with Python using modern softw
 
 ---
 
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nikhil87933&show_icons=true&theme=transparent&hide_border=true" />
+## 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil87933&layout=compact&theme=transparent&hide_border=true"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikhil87933&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil87933&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil87933&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil87933&theme=transparent&hide_border=true" />
 </p>
