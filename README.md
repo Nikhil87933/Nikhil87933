@@ -1,26 +1,128 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chamle</h1>
-<h3 align="center">A passionate Data Science enthusiast from India, I've completed Masters in International Business Economics and Finance from Gokhale Institute of Politics and Economics.</h3>
-<img align= "right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNTpoKa8Eb84XOVRKm0t8UL4D64byuxhz8A&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil87933&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil87933" /> </p>
+<h3 align="center">
+Python Developer | Data Engineering | AI / Machine Learning
+</h3>
 
-- 🔭 I’m currently working on **various AI/ML projects**
-
-- 🌱 I’m currently learning **Deep learning, Gen AI**
-
-- 📫 How to reach me **chamlenikhil1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/contact-nikhil-chamle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil chamle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/chamlenikhil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhil chamle" height="30" width="40" /></a>
+<p align="center">
+Building production-quality Data Engineering pipelines and AI-powered applications using modern software engineering practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil87933&show_icons=true&locale=en&layout=compact" alt="nikhil87933" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil87933&show_icons=true&locale=en" alt="nikhil87933" /></p>
+- 💻 Python Developer passionate about Data Engineering and AI / Machine Learning
+- 🚀 Focused on building scalable, production-quality software
+- 🌱 Currently learning Distributed Systems, Apache Spark Internals and Transformer Architecture
+- 🎯 Interested in Data Engineering, AI Systems and Enterprise Software
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil87933&" alt="nikhil87933" /></p>
+---
+
+## 🛠 Engineering Journey
+
+```text
+                    Python
+                       │
+                       ▼
+                      SQL
+                       │
+                       ▼
+               Oracle Database
+                       │
+                       ▼
+               Data Engineering
+       PySpark • Databricks • Delta Lake
+                       │
+                       ▼
+                    Cloud
+                      AWS
+                       │
+                       ▼
+            AI / Machine Learning
+ Scikit-learn • Transformers • LangChain • RAG
+                       │
+                       ▼
+           Engineering Practices
+ Clean Architecture • Testing • CI/CD
+ Git • Docker • Type Hinting • Documentation
+```
+
+---
+
+## 💻 Programming
+
+- Python
+- SQL
+
+## 🗄️ Database
+
+- Oracle Database
+
+## 📊 Data Engineering
+
+- PySpark
+- Databricks
+- Delta Lake
+- ETL / ELT
+- Data Modeling
+- Medallion Architecture
+
+## ☁️ Cloud
+
+- AWS
+
+## 🤖 AI / Machine Learning
+
+- Scikit-learn
+- Hugging Face Transformers
+- LangChain
+- FAISS
+- Ollama
+- Retrieval-Augmented Generation (RAG)
+
+## ⚙️ Engineering Practices
+
+- Clean Architecture
+- Git & GitHub
+- GitHub Actions
+- CI/CD
+- Docker
+- Unit Testing
+- Type Hinting
+- Code Linting
+- Static Type Checking
+- Configuration Management
+- Logging
+- Documentation
+
+---
+
+## 📚 Currently Learning
+
+- Apache Spark Internals
+- Distributed Data Processing
+- Transformer Architecture
+- AI System Design
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/contact-nikhil-chamle/
+- 📧 Email: chamlenikhil1@gmail.com
+- 💻 HackerRank: https://www.hackerrank.com/profile/chamlenikhil1
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil87933&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil87933&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil87933&layout=compact&theme=transparent" />
+</p>
